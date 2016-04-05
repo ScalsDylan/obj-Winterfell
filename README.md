@@ -9,7 +9,7 @@
 
 
 
-*/
+
 #include <a_samp>
 #include <streamer>
 #define objdistance     800.0
@@ -591,3 +591,4 @@ stock CreateObjectAndMaterial(modelid, Float:x, Float:y, Float:z, Float:rx, Floa
 	SetDynamicObjectMaterial(id, materialindex, materialmodelid, txdname, texturename, materialcolor);
 	count ++;
 }
+*/
